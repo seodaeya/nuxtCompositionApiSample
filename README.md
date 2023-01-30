@@ -1,3 +1,6 @@
+# blog link
+https://seodaeya.tistory.com/m/138
+
 # nuxtProject
 nuxt + composition-api
 
